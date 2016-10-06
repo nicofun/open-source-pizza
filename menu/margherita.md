@@ -1,6 +1,3 @@
-[トップに戻る](https://github.com/nicofun/open-source-pizza)
-
-
 # マルゲリータ味ピザ
 
 ## 概要
