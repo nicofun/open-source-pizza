@@ -5,6 +5,7 @@
 
 ## Menu
 * [マルゲリータ風](https://github.com/nicofun/open-source-pizza/blob/master/menu/margherita.md)
+* [シングルチーズ](https://github.com/nicofun/open-source-pizza/blob/master/menu/singleCheese.md)
 * [ダブルチーズ](https://github.com/nicofun/open-source-pizza/blob/master/menu/doubleCheese.md)
 * [照り焼き風](https://github.com/nicofun/open-source-pizza/blob/master/menu/teriyaki.md)
 * [おやつピザ](https://github.com/nicofun/open-source-pizza/blob/master/menu/snackpizza.md)
