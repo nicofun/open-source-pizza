@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+}
+
+header {
+  height: 100vh;
+  background-image: url(pizza.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+header h1 {
+  margin-top: 0;
+  padding-top: 45vh;
+  color: white;
+  text-align: center;
+}
+
+#main {
+  min-height: 100vh;
+  padding: 30px;
+}
+
+.centering {
+  text-align: center;
+}
